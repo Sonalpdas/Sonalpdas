@@ -45,7 +45,7 @@
 ### 📺 Latest Web Development Projects
 
 <!-- GITPROJECT:START -->
-- [Virtual Assistant for Mac similar to Jarvis] (https://github.com/Sonalpdas/the_jarvis_project.git)
+- [Virtual Assistant for Mac similar to Jarvis](https://github.com/Sonalpdas/the_jarvis_project.git)
 - [Outlook Based Services via Alexa | Amazon Alexa Dev portal, MS Azure, Express.js](https://github.com/sonal-p-das/capstone_cmu_vawe)
 - [Gallivanter | A Social Web PLatform to share travel stories | HTML5, Node.js, MongoDB, Bootstrap](https://github.com/sonal-p-das/Gallivanter)
 - [Carnegie Mellon University - Policy Innovation Lab Playbook | HTML5, CSS](https://github.com/sonal-p-das/policy-lab-playbook)
