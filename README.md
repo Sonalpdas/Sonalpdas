@@ -4,9 +4,9 @@
 <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">
 
 - :pill: I’m currently working at **Highmark Health as a Senior Software Engineer (Django + React)**
-- :money_with_wings: I worked with **Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)**
-- :computer: I worked with **Tata Consultancy Limited as a Systems Engineer (Microsoft SharePoint Web Solution Provider)**
-- 👯 I’m looking to collaborate with other Full Stack Developers
+- :money_with_wings: Worked with **Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)**
+- :computer: Worked with **Tata Consultancy Limited as a Systems Engineer (Microsoft SharePoint Web Solution Provider)**
+- 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 2023 Goals: Develop industry-specific (Finance/Healthcare) Full Stack web projects, Ongoing Passion Projects: Portfolio, Savings Management App, e-Swear-Jar
 - ⚡ Fun facts: I enjoy **public speaking** and am currently a **CC4 Level speaker at Toastmasters**
 
