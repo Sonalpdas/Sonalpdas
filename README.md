@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm Sonal Das</h1>
-<h3 align="center">Full Stack Developer, Public Speaker and Netflix binge-watcher!</h3>
+<h3 align="center">Software Engineer, Public Speaker and Netflix binge-watcher!</h3>
 
 <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">
 
