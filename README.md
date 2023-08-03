@@ -3,11 +3,11 @@
 
 <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" alt="Coder GIF" width="180" height="180">
 
-- :pill: I’m currently working at **Highmark Health as a Full Stack Developer (Django + React)**
+- :pill: I’m currently working at **Highmark Health as a Senior Software Engineer (Django + React)**
 - :money_with_wings: I worked with **Deloitte as a Senior Analyst (Microsoft SharePoint Web Solution Provider)**
 - :computer: I worked with **Tata Consultancy Limited as a Systems Engineer (Microsoft SharePoint Web Solution Provider)**
 - 👯 I’m looking to collaborate with other Full Stack Developers
-- 🥅 2022 Goals: Develop industry specific (Finance/Healthcare) Full Stack web projects
+- 🥅 2022 Goals: Develop industry-specific (Finance/Healthcare) Full Stack web projects
 - ⚡ Fun facts: I enjoy **public speaking** and am currently a **CC4 Level speaker at Toastmasters**
 
 
